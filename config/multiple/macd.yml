@@ -1,0 +1,15 @@
+SHORT:
+  type: 'integer'
+  min: 11
+  max: 13
+  step: 1
+LONG:
+  type: 'integer'
+  min: 25
+  max: 27
+  step: 1
+SMOOTH:
+  type: 'integer'
+  min: 8
+  max: 10
+  step: 1
